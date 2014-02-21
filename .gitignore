@@ -1,0 +1,6 @@
+.vagrant/
+packer/builds/*
+packer_cache/
+*.swp
+*.swo
+
